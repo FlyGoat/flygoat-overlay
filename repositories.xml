@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>flygoat-overlay</name>
+      <description lang="en">flygoat's Custom Gentoo Overlay.</description>
+        <homepage>https://github.com/flygoat/flygoat-overlay</homepage>
+        <owner type="person">
+            <name>Jiaxun Yang</name>
+            <email>jiaxun.yang@flygoat.com</email>
+        </owner>
+        <source type="git">git://github.com/flygoat/flygoat-overlay.git</source>
+        <feed>https://github.com/flygoat/flygoat-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
