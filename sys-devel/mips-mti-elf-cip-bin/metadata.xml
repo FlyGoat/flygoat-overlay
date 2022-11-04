@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>jiaxun.yang@flygoat.com</email>
+		<name>Jiaxun Yang</name>
+	</maintainer>
+	<longdescription lang="en">
+	mips-mti-elf toolchain maintained by CIP United.
+	</longdescription>
+</pkgmetadata>
